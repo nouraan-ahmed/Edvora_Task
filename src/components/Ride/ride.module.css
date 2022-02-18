@@ -1,0 +1,21 @@
+.Con {
+  background-color: #292929;
+  color: white;
+  padding: 10px;
+}
+.Ride {
+  background-color: #131313;
+  border-radius: 8px;
+  padding: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.Rideimg {
+  width: 100%;
+  height: 200px;
+  border-radius: 8px;
+}
+
+.Line {
+  color: #cfcfcf;
+}
